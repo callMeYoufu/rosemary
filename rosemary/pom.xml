@@ -42,7 +42,7 @@
         <qiniu-sdk.version>6.1.9</qiniu-sdk.version>
         <qiniu-java-sdk.version>7.0.0</qiniu-java-sdk.version>
         <json.version>20160212</json.version>
-        <jackson.version>2.9.7</jackson.version>
+        <jackson.version>2.10.1</jackson.version>
         <junit.version>4.12</junit.version>
         <sf.ehcache.version>2.5.0</sf.ehcache.version>
         <ehcache.version>3.5.2</ehcache.version>
