@@ -31,7 +31,7 @@
         <commons-io.version>2.4</commons-io.version>
         <commons-collections.version>3.2.2</commons-collections.version>
         <fastjson.version>1.2.7</fastjson.version>
-        <shiro.version>1.2.4</shiro.version>
+        <shiro.version>1.7.1</shiro.version>
         <servlet.version>3.1.0</servlet.version>
         <pagehelper.version>4.1.6</pagehelper.version>
         <oracle.version>10.2.0.4.0</oracle.version>
